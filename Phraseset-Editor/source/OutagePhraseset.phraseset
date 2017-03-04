@@ -1,0 +1,3364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" version="1.0">
+    <phrase version="1.0">
+        <displayname>93115</displayname>
+        <talent/>
+        <phrasetext>3 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93115.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91003</displayname>
+        <talent/>
+        <phrasetext>...Northwest metro...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91003.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93142</displayname>
+        <talent/>
+        <phrasetext>7 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93142.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91011</displayname>
+        <talent/>
+        <phrasetext>...580 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91011.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92010</displayname>
+        <talent/>
+        <phrasetext>equipment failure</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92010.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6090_A</displayname>
+        <talent/>
+        <phrasetext>Thank you for making this report.  If you have an emergency situation to report related to this outage, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6090_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93124</displayname>
+        <talent/>
+        <phrasetext>1 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93124.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93136</displayname>
+        <talent/>
+        <phrasetext>1 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93136.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93135</displayname>
+        <talent/>
+        <phrasetext>noon tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93135.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91019</displayname>
+        <talent/>
+        <phrasetext>...906 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91019.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91020</displayname>
+        <talent/>
+        <phrasetext>...970 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91020.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91005</displayname>
+        <talent/>
+        <phrasetext>...Minneapolis...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91005.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91004</displayname>
+        <talent/>
+        <phrasetext>...Southwest metro...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91004.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93014</displayname>
+        <talent/>
+        <phrasetext>4 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93014.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93007</displayname>
+        <talent/>
+        <phrasetext>We are currently anticipating service to be restored to the vast majority of customers by tomorrow afternoon.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93007.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>970_A</displayname>
+        <talent/>
+        <phrasetext>Sorry, I did not understand that.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>970_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93101</displayname>
+        <talent/>
+        <phrasetext>1 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93101.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93151</displayname>
+        <talent/>
+        <phrasetext>end of day Thursday.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93151.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93138</displayname>
+        <talent/>
+        <phrasetext>3 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93138.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7020_A</displayname>
+        <talent/>
+        <phrasetext>Please use the keypad to enter the phone number we should call.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7020_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>999_A</displayname>
+        <talent/>
+        <phrasetext>silence</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>999.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93122</displayname>
+        <talent/>
+        <phrasetext>10 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93122.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93137</displayname>
+        <talent/>
+        <phrasetext>2 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93137.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93148</displayname>
+        <talent/>
+        <phrasetext>end of day Monday.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93148.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91013</displayname>
+        <talent/>
+        <phrasetext>...West Texas...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91013.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7030_A</displayname>
+        <talent/>
+        <phrasetext>Ok, what is the phone number, area code first?</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7030_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93105</displayname>
+        <talent/>
+        <phrasetext>5 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93105.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93153</displayname>
+        <talent/>
+        <phrasetext>end of day Saturday.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93153.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93108</displayname>
+        <talent/>
+        <phrasetext>8 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93108.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91023</displayname>
+        <talent/>
+        <phrasetext>...Southeastern Colorado...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91023.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91016</displayname>
+        <talent/>
+        <phrasetext>...307 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91016.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93109</displayname>
+        <talent/>
+        <phrasetext>9 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93109.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92006</displayname>
+        <talent/>
+        <phrasetext>wind and snow</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92006.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91014</displayname>
+        <talent/>
+        <phrasetext>...915 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91014.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6090sr_A</displayname>
+        <talent/>
+        <phrasetext>Thank you for making this report.  If you have an emergency situation to report related to this outage, say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6090sr_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93145</displayname>
+        <talent/>
+        <phrasetext>10 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93145.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93107</displayname>
+        <talent/>
+        <phrasetext>7 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93107.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6022_B</displayname>
+        <talent/>
+        <phrasetext>Our system is not accepting your outage report right now,  so I need to transfer your call to a </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6022_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91007</displayname>
+        <talent/>
+        <phrasetext>...Northern Wisconsin...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91007.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93134</displayname>
+        <talent/>
+        <phrasetext>11 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93134.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93113</displayname>
+        <talent/>
+        <phrasetext>1 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93113.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92014</displayname>
+        <talent/>
+        <phrasetext>damage to an underground cable</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92014.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7025a_A</displayname>
+        <talent/>
+        <phrasetext>I heard:</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7025a_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93102</displayname>
+        <talent/>
+        <phrasetext>2 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93102.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93128</displayname>
+        <talent/>
+        <phrasetext>5 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93128.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6100b_A</displayname>
+        <talent/>
+        <phrasetext>today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6100b_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93112</displayname>
+        <talent/>
+        <phrasetext>noon today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93112.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7045_A</displayname>
+        <talent/>
+        <phrasetext>Thanks, we will keep you informed if the time changes.  Thank you for calling Xcel Energy.  Goodbye.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7045_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91017</displayname>
+        <talent/>
+        <phrasetext>...602 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91017.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92005</displayname>
+        <talent/>
+        <phrasetext>severe thunderstorms</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92005.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91025</displayname>
+        <talent/>
+        <phrasetext>...Oklahoma...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91025.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>958_A</displayname>
+        <talent/>
+        <phrasetext>Ok, there seems to be a problem in our system right now, let me transfer you to a </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>958.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93149</displayname>
+        <talent/>
+        <phrasetext>end of day Tuesday.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93149.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93118</displayname>
+        <talent/>
+        <phrasetext>6 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93118.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6060c_A</displayname>
+        <talent/>
+        <phrasetext>We will continue to provide the latest information as it becomes available.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6060c_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92008</displayname>
+        <talent/>
+        <phrasetext>excessive heat</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92008.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92002</displayname>
+        <talent/>
+        <phrasetext>animal contact</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92002.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93001</displayname>
+        <talent/>
+        <phrasetext>We are currently assessing the damage and will provide an approximate restoration time as one becomes available.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92001</displayname>
+        <talent/>
+        <phrasetext>an ice storm</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93119</displayname>
+        <talent/>
+        <phrasetext>7 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93119.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91015</displayname>
+        <talent/>
+        <phrasetext>...620 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91015.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93146</displayname>
+        <talent/>
+        <phrasetext>11 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93146.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91012</displayname>
+        <talent/>
+        <phrasetext>...505 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91012.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91027</displayname>
+        <talent/>
+        <phrasetext>...719 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91027.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93114</displayname>
+        <talent/>
+        <phrasetext>2 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93114.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6100a_A</displayname>
+        <talent/>
+        <phrasetext>Hi, I am Mary from Xcel Energy.  We are aware of outages in your area and I've accepted your outage report. Looks like we will have your power restored by:</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6100a_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93008</displayname>
+        <talent/>
+        <phrasetext>We are currently anticipating service to be restored to the vast majority of customers by end of day tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93008.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93132</displayname>
+        <talent/>
+        <phrasetext>9 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93132.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93120</displayname>
+        <talent/>
+        <phrasetext>8 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93120.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93126</displayname>
+        <talent/>
+        <phrasetext>3 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93126.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93111</displayname>
+        <talent/>
+        <phrasetext>11 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93111.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91008</displayname>
+        <talent/>
+        <phrasetext>...Southeastern Wisconsin...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91008.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6005_A</displayname>
+        <talent/>
+        <phrasetext>I'm sorry our records show that your service has been disconnected due to an overdue bill.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6005_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93143</displayname>
+        <talent/>
+        <phrasetext>8 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93143.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>971_A</displayname>
+        <talent/>
+        <phrasetext>Sorry, I still did not understand that.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>971_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7000_A</displayname>
+        <talent/>
+        <phrasetext>Thank you for making this report. To receive a 24-hour update if this time changes by an hour or more, press 1. If you'd like to report another emergency situation, 2. Or, if you're finished here and want to end this call, 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7000_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93100</displayname>
+        <talent/>
+        <phrasetext>We are currently anticipating service to be restored to the vast majority of customers by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93100.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91001</displayname>
+        <talent/>
+        <phrasetext>...320 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91001.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6060a_A</displayname>
+        <talent/>
+        <phrasetext>That outage information was last updated</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6060a_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6060b_A</displayname>
+        <talent/>
+        <phrasetext>at</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6060b_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93133</displayname>
+        <talent/>
+        <phrasetext>10 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93133.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6050_A</displayname>
+        <talent/>
+        <phrasetext>Hi, I am Bob from Xcel Energy.  As you may know,</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6050_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93152</displayname>
+        <talent/>
+        <phrasetext>end of day Friday.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93152.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6040c_A</displayname>
+        <talent/>
+        <phrasetext>Our crews are working to restore your power as quickly as possible, and we appreciate your patience.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6040c_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91021</displayname>
+        <talent/>
+        <phrasetext>...Denver metro...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91021.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92007</displayname>
+        <talent/>
+        <phrasetext>rain</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92007.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92009</displayname>
+        <talent/>
+        <phrasetext>snow</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92009.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93116</displayname>
+        <talent/>
+        <phrasetext>4 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93116.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93127</displayname>
+        <talent/>
+        <phrasetext>4 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93127.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91024</displayname>
+        <talent/>
+        <phrasetext>...Northern Minnesota...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91024.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6000_A</displayname>
+        <talent/>
+        <phrasetext>Ok, I can help with that electric outage report.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6000_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93139</displayname>
+        <talent/>
+        <phrasetext>4 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93139.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93125</displayname>
+        <talent/>
+        <phrasetext>2 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93125.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92015</displayname>
+        <talent/>
+        <phrasetext>Controlled Outages</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92015.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91009</displayname>
+        <talent/>
+        <phrasetext>...South Dakota...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91009.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93123</displayname>
+        <talent/>
+        <phrasetext>11 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93123.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91002</displayname>
+        <talent/>
+        <phrasetext>...507 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91002.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6105_A</displayname>
+        <talent/>
+        <phrasetext>tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6105_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93140</displayname>
+        <talent/>
+        <phrasetext>5 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93140.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93130</displayname>
+        <talent/>
+        <phrasetext>7 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93130.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6040a_A</displayname>
+        <talent/>
+        <phrasetext>Hi, I am Bob from Xcel Energy.  I have accepted your outage report.  As you may know:</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6040a_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>972_A</displayname>
+        <talent/>
+        <phrasetext>Sorry to continue, I need you to choose from one of the following.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>972_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6010_A</displayname>
+        <talent/>
+        <phrasetext>Ok, I am entering the outage.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6010_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92004</displayname>
+        <talent/>
+        <phrasetext>extreme weather conditions</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92004.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93006</displayname>
+        <talent/>
+        <phrasetext>We are currently anticipating service to be restored to the vast majority of customers by tomorrow morning.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93006.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91026</displayname>
+        <talent/>
+        <phrasetext>...405 area code...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91026.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93150</displayname>
+        <talent/>
+        <phrasetext>end of day Wednesday.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93150.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93141</displayname>
+        <talent/>
+        <phrasetext>6 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93141.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91010</displayname>
+        <talent/>
+        <phrasetext>...North Dakota...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91010.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7025b_A</displayname>
+        <talent/>
+        <phrasetext>If that is right, press 1.  To enter it again, 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7025b_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6101a_A</displayname>
+        <talent/>
+        <phrasetext>Hi, I am Mary from Xcel Energy.  I have accepted your outage report. At this time we do not have an exact restoration time available, but on average we usually we power restored within.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6101a_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93129</displayname>
+        <talent/>
+        <phrasetext>6 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93129.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92003</displayname>
+        <talent/>
+        <phrasetext>high winds</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92003.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7010a_A</displayname>
+        <talent/>
+        <phrasetext>Ok, we will call you back as soon as we know a new status.  Keep in mind that we may call you any time of the day or night.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7010a_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93103</displayname>
+        <talent/>
+        <phrasetext>3 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93103.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6101b_A</displayname>
+        <talent/>
+        <phrasetext>hours.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6101b_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93106</displayname>
+        <talent/>
+        <phrasetext>6 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93106.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91006</displayname>
+        <talent/>
+        <phrasetext>...St. Paul, East metro...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91006.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93144</displayname>
+        <talent/>
+        <phrasetext>9 PM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93144.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93110</displayname>
+        <talent/>
+        <phrasetext>10 AM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93110.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93147</displayname>
+        <talent/>
+        <phrasetext>end of day Sunday.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93147.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93131</displayname>
+        <talent/>
+        <phrasetext>8 AM tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93131.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6040b_A</displayname>
+        <talent/>
+        <phrasetext>has been affected by:</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6040b_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7040_A</displayname>
+        <talent/>
+        <phrasetext>Thanks, we will call this number if we need to let you know a new time for your electric service to be fixed.  Thank you for calling Xcel Energy.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7040_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93121</displayname>
+        <talent/>
+        <phrasetext>9 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93121.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93117</displayname>
+        <talent/>
+        <phrasetext>5 PM today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93117.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>silence_A</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>silence_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>928_A</displayname>
+        <talent/>
+        <phrasetext>on</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>928_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93005</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93005.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93002</displayname>
+        <talent/>
+        <phrasetext>During the duration of this event, you may experience outages lasting up to 30 minutes.  Should your outage last longer than 30 minutes, please call us back to report the situation.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93002.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93003</displayname>
+        <talent/>
+        <phrasetext>During the duration of this event, you may experience outages lasting up to one hour.  Should your outage last longer than one hour, please call us back to report the situation.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93003.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93004</displayname>
+        <talent/>
+        <phrasetext>During the duration of this event, you may experience outages lasting up to 90 minutes.  Should your outage last longer than 90 minutes, please call us back to report the situation.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93004.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91028</displayname>
+        <talent/>
+        <phrasetext>575 area code</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91028.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>91022</displayname>
+        <talent/>
+        <phrasetext>...Denver metro...</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>91022.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92011</displayname>
+        <talent/>
+        <phrasetext>controlled outages</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92011.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>93104</displayname>
+        <talent/>
+        <phrasetext>4am today</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>93104.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>92013</displayname>
+        <talent/>
+        <phrasetext>Damage to overhead lines</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>92013.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7001_B</displayname>
+        <talent/>
+        <phrasetext>Thank you for making this report. To receive an update if your restoration time changes by an hour or more, press 1. To receive a call back when your power is restored, press 2. If you have an emergency situation to report related to this outage, 3. Or, if you're finished here and want to end this call, 4.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7001_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>958b_B</displayname>
+        <talent/>
+        <phrasetext>customer service representative.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>958b_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7048_B</displayname>
+        <talent/>
+        <phrasetext>Thanks! We'll call you back when your power has been restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7048_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7100a_B</displayname>
+        <talent/>
+        <phrasetext>Ok, we'll call to notify you that your power has been restored. To receive a call only between</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7100a_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7100b_B</displayname>
+        <talent/>
+        <phrasetext>and</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7100b_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7100c_B</displayname>
+        <talent/>
+        <phrasetext>central time, press 1. To receive a call regardless of the time of day, 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7100c_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7500_B</displayname>
+        <talent/>
+        <phrasetext>To receive a call back when your power is restored, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7500_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7501_B</displayname>
+        <talent/>
+        <phrasetext>To receive a 24 hour update if the resoration time estimate changes, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7501_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7502_B</displayname>
+        <talent/>
+        <phrasetext>If you have an emergency situation to report related to this outage, 2. Or, if you're finished here and want to end this call, 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7502_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7011a_B</displayname>
+        <talent/>
+        <phrasetext>If you'd like to be called at</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7011a_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7011b_A</displayname>
+        <talent/>
+        <phrasetext>press 1. To give me another number, 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7011b_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>940_B</displayname>
+        <talent/>
+        <phrasetext>Colorado</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>940_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>941_B</displayname>
+        <talent/>
+        <phrasetext>Michigan</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>941_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>942_B</displayname>
+        <talent/>
+        <phrasetext>Minnesota</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>942_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>943_B</displayname>
+        <talent/>
+        <phrasetext>North Dakota</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>943_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>944_B</displayname>
+        <talent/>
+        <phrasetext>New Mexico</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>944_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>945_B</displayname>
+        <talent/>
+        <phrasetext>South Dakota</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>945_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>946_B</displayname>
+        <talent/>
+        <phrasetext>Texas</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>946_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>947_B</displayname>
+        <talent/>
+        <phrasetext>Wisconsin</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>947_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6022b_B</displayname>
+        <talent/>
+        <phrasetext>customer service representative,  who will get it into the system for you.  I apologize for this inconvenience  just a minute while I transfer your call</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6022b_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6200_A</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6200a1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6200_B</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6200b1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6200sr_B</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6200bsr1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6207_A</displayname>
+        <talent/>
+        <phrasetext>This service has been disconnected due to an overdue bill</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6207_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_A</displayname>
+        <talent/>
+        <phrasetext>Ok before i log this outage please confirm the address of the outage is </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_B</displayname>
+        <talent/>
+        <phrasetext>if thats right press 1.if you want to log an outage for another address on file 2. to return to the main menu 3</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002sr_B</displayname>
+        <talent/>
+        <phrasetext>if thats right say 1.if you want to log an outage for another address on file 2. to return to the main menu 3</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002sr_b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6022new_a</displayname>
+        <talent/>
+        <phrasetext>I apologize for this inconvenience ... just a minute while I transfer your call</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6022new_a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6022new_b</displayname>
+        <talent/>
+        <phrasetext>customer service representative, who will get it into the sytem for your</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6022new_b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>H867c</displayname>
+        <talent/>
+        <phrasetext>account</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>H867c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>0961new</displayname>
+        <talent/>
+        <phrasetext>Customer Service Representative to help you with your</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>0961new.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7407</displayname>
+        <talent/>
+        <phrasetext>Thanks! We’ll call this number when your power has been restored or if we are not able to restore your electric service by the time indicated</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7407.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7503</displayname>
+        <talent/>
+        <phrasetext>If you have an emergency situation to report related to this outage press 1.&#13;
+Or, if you’re finished here and want to end this call, 2&#13;
+</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7503.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7501a</displayname>
+        <talent/>
+        <phrasetext>If you have an emergency situation to report related to this outage, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7501a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7501b</displayname>
+        <talent/>
+        <phrasetext>If you would like to hear about other ways to get outage information, 2.&#13;
+Or, if you’re finished here and want to end this call, 3&#13;
+</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7501b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7501sr_a</displayname>
+        <talent/>
+        <phrasetext>If you have an emergency situation to report related to this outage, say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7501sr_a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7502a</displayname>
+        <talent/>
+        <phrasetext>Did you know that you can view outage information at xcelenergy dot com? Just hover over the outages tab at the top of our website and select the outage map. On the map, you can type in your address to view updated information. To repeat this menu, press 1. To end this call, 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7502a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400a_1</displayname>
+        <talent/>
+        <phrasetext>Thank you for making this report. Xcel Energy has signed you up for a callback at</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400a_1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400sr_a2</displayname>
+        <talent/>
+        <phrasetext>if the expected restoration time changes by an hour or more, or when your power is restored.&#13;
+To be contacted at a different number, say 1.&#13;
+</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400sr_a2.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400a_2</displayname>
+        <talent/>
+        <phrasetext>if the expected restoration time changes by an hour or more, or when your power is restored.&#13;
+To be contacted at a different number, press 1&#13;
+</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400a_2.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7502sr_a</displayname>
+        <talent/>
+        <phrasetext>Did you know that you can view outage information at xcelenergy dot com? Just hover over the outages tab at the top of our website and select the outage map. On the map, you can type in your address to view updated information. To repeat this menu, say 1. To end this call, 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7502sr_a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_a</displayname>
+        <talent/>
+        <phrasetext>Ok, Before I enter this outage, please confirm the  address of the outage begins with</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_a1</displayname>
+        <talent/>
+        <phrasetext>If that's right, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_a1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_a1sr</displayname>
+        <talent/>
+        <phrasetext>If that's right, say 1</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_a1sr.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_b</displayname>
+        <talent/>
+        <phrasetext>To listen to the Updated Restoration time for the outage at the address </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_b1</displayname>
+        <talent/>
+        <phrasetext>Please Press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_b1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_bsr</displayname>
+        <talent/>
+        <phrasetext>To listen to the Updated Restoration time for the outage at the address</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_bsr.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_b1sr</displayname>
+        <talent/>
+        <phrasetext>Please Say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_b1sr.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002_c</displayname>
+        <talent/>
+        <phrasetext> If you want to report an outage for another address 2. If you are not calling to report an outage 3</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002_c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6133a</displayname>
+        <talent/>
+        <phrasetext>Crews are assessing damages to the electrical system in your area. At this time there is not an exact restoration time available, but on average we usually have power restored within</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6133a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6133b</displayname>
+        <talent/>
+        <phrasetext>hours. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6133b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6135a</displayname>
+        <talent/>
+        <phrasetext>The current estimated restoration time for this outage is</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6135a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6135b</displayname>
+        <talent/>
+        <phrasetext>Today. We appreciate your patience as we work as quickly and safely as possible to complete repairs.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6135b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6136a</displayname>
+        <talent/>
+        <phrasetext>The current estimated restoration time for this outage is </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6136a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6136b</displayname>
+        <talent/>
+        <phrasetext>tomorrow. We appreciate your patience as we work as quickly and safely as possible to complete repairs.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6136b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6137b</displayname>
+        <talent/>
+        <phrasetext>on</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6137b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6137c</displayname>
+        <talent/>
+        <phrasetext>We appreciate your patience as we work as quickly and safely as possible to complete repairs..</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6137c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6138a</displayname>
+        <talent/>
+        <phrasetext>Thanks for contacting us about your outage. If you have an emergency situation to report press 1. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6138a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6138aSpeech</displayname>
+        <talent/>
+        <phrasetext>Thanks for contacting us about your outage. If you have an emergency situation to report say 1</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6138a_sr.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6137a</displayname>
+        <talent/>
+        <phrasetext>The current estimated restoration time for this outage is</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6137a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6142</displayname>
+        <talent/>
+        <phrasetext>Thank you for reporting this outage. At this time we are assessing the situation and do not have a restoration estimate. We will work as quickly and safely as possible to determine the reason for this interruption to this service. Thank you for your patience. We apologize for any inconvenience this may cause.&#13;
+Please note, this is the same information available to our representatives and from our online outage map at XcelEnergy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6142.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6144</displayname>
+        <talent/>
+        <phrasetext>We appreciate your continued patience as we continue to assess the damages to our system, however at this time we are unable to estimate when your power will be restored. We are working as quickly and safely as possible to address these outages. We apologize for any inconveniences you may be experiencing.&#13;
+Please note, this is the same information available to our representatives and from our online outage map at XcelEnergy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6144.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>8200_A</displayname>
+        <talent/>
+        <phrasetext>Hello. This is Mary with Xcel Energy calling with new information about the outage you reported. We are working as quickly and safely as possible and expect to restore your service at approximately</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>8200_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>8200_B</displayname>
+        <talent/>
+        <phrasetext>If this time changes by an hour or more, we will call you with an updated restoration time. We appreciate your continued patience and apologize for any inconveniences you may be experiencing.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>8200_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400_A</displayname>
+        <talent/>
+        <phrasetext>We have signed you up for a call back at</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400_B</displayname>
+        <talent/>
+        <phrasetext>once a restoration time becomes available or when your power is restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400_B.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7407_A</displayname>
+        <talent/>
+        <phrasetext>Thanks! We’ll call this number when your power has been restored or when a restoration time becomes available.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7407_A.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400_c</displayname>
+        <talent/>
+        <phrasetext>To be contacted at a different number, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400_c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400_a1</displayname>
+        <talent/>
+        <phrasetext>Thank you for making this report.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400_a1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6144a</displayname>
+        <talent/>
+        <phrasetext>For the very latest outage information for your area, please refer to our online outage map at Xcel Energy dot com</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6144a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7400a</displayname>
+        <talent/>
+        <phrasetext>We will call you at</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7400a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7400b</displayname>
+        <talent/>
+        <phrasetext>Once a restoration time becomes available or when your power is restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7400b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7400c</displayname>
+        <talent/>
+        <phrasetext>If the expected restoration time changes by an hour or more, or when your power is restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7400c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7400d</displayname>
+        <talent/>
+        <phrasetext>If you're calling from a cell phone and would prefer to receive a text, press 1</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7400d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7400e</displayname>
+        <talent/>
+        <phrasetext>To receive a phone call or text message at a different number, 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7400e.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7400f</displayname>
+        <talent/>
+        <phrasetext>If you prefer not be contacted, 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7400f.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7400g</displayname>
+        <talent/>
+        <phrasetext>If you need to report an emergency related to this outage, 4.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7400g.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7401a</displayname>
+        <talent/>
+        <phrasetext>Please use the keypad on your phone to enter the phone number we should call.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7401a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7401b</displayname>
+        <talent/>
+        <phrasetext>Please use the keypad on your phone to enter the cell phone number we should text.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7401b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7405a</displayname>
+        <talent/>
+        <phrasetext>Thanks! You’ll receive a text confirmation shortly.  Then, we’ll text you when a restoration time becomes available or when your power has been restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7405a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7405b</displayname>
+        <talent/>
+        <phrasetext>Thanks!  You’ll receive a text confirmation shortly.  Then, we’ll text you if your restoration time changes by an hour or more or when your power has been restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7405b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7407a</displayname>
+        <talent/>
+        <phrasetext>Thanks! We’ll call this number when a restoration time becomes available or when your power has been restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7407a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7407b</displayname>
+        <talent/>
+        <phrasetext>Thanks!  You’ll receive a text confirmation shortly.  Then, we’ll text you if your restoration time changes by an hour or more or when your power has been restored.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7407b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7410a</displayname>
+        <talent/>
+        <phrasetext>To change the phone number at which we should call you, press 1.  </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7410a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SMS_7410b</displayname>
+        <talent/>
+        <phrasetext>To enter a number for a text message, press 2</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SMS_7410b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213a</displayname>
+        <talent/>
+        <phrasetext>Thank you for reporting this outage. Currently this account is set up to receive outage notifications by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213b</displayname>
+        <talent/>
+        <phrasetext>and</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213c</displayname>
+        <talent/>
+        <phrasetext>Text Message to your cell phone number that ends with</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213d</displayname>
+        <talent/>
+        <phrasetext>Any time of the day or night.  Message and data rates may apply</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213e</displayname>
+        <talent/>
+        <phrasetext>From 8 AM to 10 PM Central Time.  Message and data rates may apply</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213e.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213f</displayname>
+        <talent/>
+        <phrasetext>Call Back to the number that ends with</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213f.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213g</displayname>
+        <talent/>
+        <phrasetext>To continue with these notifications, Press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213g.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7241a</displayname>
+        <talent/>
+        <phrasetext>We will contact you once a restoration time becomes available or when your power is restored</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7241a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7241b</displayname>
+        <talent/>
+        <phrasetext>We will contact you if the expected restoration time changes by an hour or more, or when your power is restored</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7241b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7271</displayname>
+        <talent/>
+        <phrasetext>To discontinue email notifications, press 1. To update your email address, press 2. To continue with current email notification,press 3</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7271.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7243</displayname>
+        <talent/>
+        <phrasetext>To update your phone outage notifications, press 1. To update text outage notifications, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7243.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7242</displayname>
+        <talent/>
+        <phrasetext>A customer service representative will need to assist you in updating the Outage Notification email address, you will be transferred now.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7242.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7244a</displayname>
+        <talent/>
+        <phrasetext>To update the phone number, press 1. To discontinue Phone notifications, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7244a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7244b</displayname>
+        <talent/>
+        <phrasetext>To add a phone number for notifications press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7244b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7253a</displayname>
+        <talent/>
+        <phrasetext>Thanks, we’ve updated your phone notification preferences.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7253a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7253b</displayname>
+        <talent/>
+        <phrasetext>To update your text message notifications, press 1. To continue on with your current preferences, press 2</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7253b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7256a</displayname>
+        <talent/>
+        <phrasetext>To update the cell phone number for text notifications, press 1. To discontinue text notifications, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7256a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7256b</displayname>
+        <talent/>
+        <phrasetext>To begin receiving text notifications, Press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7256b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7266</displayname>
+        <talent/>
+        <phrasetext>I see the number entered is not a valid cell phone number.  To enter a different cell phone number, area code first, press 1.  To continue without setting preferences 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7266.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7267</displayname>
+        <talent/>
+        <phrasetext>Thanks we've updated your text message notification preferences.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7267.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7268</displayname>
+        <talent/>
+        <phrasetext>To be notified in the same way on future outages, press 1.  To continue without saving your contact information, 2</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7268.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7501</displayname>
+        <talent/>
+        <phrasetext>If you have an emergency situation to report related to this outage, press 1. Or, if you’re finished here and want to end this call, press 2&#13;
+</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7501.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213h</displayname>
+        <talent/>
+        <phrasetext>Email at the address that starts with</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213h.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Dot</displayname>
+        <talent/>
+        <phrasetext>Dot</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Dot.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7280</displayname>
+        <talent/>
+        <phrasetext>If this is your home phone press 1, cell phone 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7280.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7280sr</displayname>
+        <talent/>
+        <phrasetext>If this is your home phone say 1, cell phone 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7280sr.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213i</displayname>
+        <talent/>
+        <phrasetext>From 8 AM to 10 PM Central Time. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213i.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213j</displayname>
+        <talent/>
+        <phrasetext>Any time of the day or night.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213j.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7402b</displayname>
+        <talent/>
+        <phrasetext>If that’s right, press 1.&#13;
+To enter it again, press 2</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7402b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7268a</displayname>
+        <talent/>
+        <phrasetext>To be notified in the same way on future outages, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7268a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7268b</displayname>
+        <talent/>
+        <phrasetext>To continue without saving your contact information on future notifications, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7268b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7268a_Speech</displayname>
+        <talent/>
+        <phrasetext>To be notified in the same way on future outages, say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7268aSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7268b_Speech</displayname>
+        <talent/>
+        <phrasetext>To continue without saving your contact information on future notifications, say 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7268bSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7266a</displayname>
+        <talent/>
+        <phrasetext>The number entered is not a valid cell phone number. To re-enter a cell phone number, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7266a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7266a_Speech</displayname>
+        <talent/>
+        <phrasetext>The number entered is not a valid cell phone number. To re-enter a cell phone number, say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7266aSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7266b</displayname>
+        <talent/>
+        <phrasetext>To continue without setting preferences press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7266b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7266b_Speech</displayname>
+        <talent/>
+        <phrasetext>To continue without setting preferences say 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7266bSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7527</displayname>
+        <talent/>
+        <phrasetext>Enter the area code and phone number of the cell phone</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7257.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7257</displayname>
+        <talent/>
+        <phrasetext>Enter the area code and phone number of the cell phone</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7257.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7245</displayname>
+        <talent/>
+        <phrasetext>Enter the area code and phone number</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7245.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7250</displayname>
+        <talent/>
+        <phrasetext>Enter the area code and phone number</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7250.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7248a</displayname>
+        <talent/>
+        <phrasetext>Please confirm the number entered was </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7248a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7248b</displayname>
+        <talent/>
+        <phrasetext>If that’s right, press 1.&#13;
+To enter it again, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7248b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7406</displayname>
+        <talent/>
+        <phrasetext>There seems to be a problem with our system right now, you will be transferred to a customer service representative who can help you.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7406.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6138b</displayname>
+        <talent/>
+        <phrasetext>Or, if you’re finished here and want to end this call press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6138b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6138bSpeech</displayname>
+        <talent/>
+        <phrasetext>Or, if you’re finished here and want to end this call say 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6138b_sr.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7402a</displayname>
+        <talent/>
+        <phrasetext>Please confirm the number entered was</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7402a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6133c</displayname>
+        <talent/>
+        <phrasetext>We appreciate your patience as we work to make the necessary repairs. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6133c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6133d</displayname>
+        <talent/>
+        <phrasetext>Please note, this is the same information available to our representatives and from our online outage map at XcelEnergy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6133d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6110a</displayname>
+        <talent/>
+        <phrasetext>The outage has been entered. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6110a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6110b</displayname>
+        <talent/>
+        <phrasetext>We are aware of outages in your area and power is estimated to be restored by </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6110b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6110c</displayname>
+        <talent/>
+        <phrasetext>on</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6110c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6110d</displayname>
+        <talent/>
+        <phrasetext>Please note, this is the same information available to our representatives and from our online outage map at XcelEnergy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6110d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6105a</displayname>
+        <talent/>
+        <phrasetext>The outage has been entered. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6105a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6105b</displayname>
+        <talent/>
+        <phrasetext>We are aware of outages in your area and power is estimated to be restored by  </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6105b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6105c</displayname>
+        <talent/>
+        <phrasetext>tomorrow.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6105c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6105d</displayname>
+        <talent/>
+        <phrasetext>Please note, this is the same information available to our representatives and from our online outage map at XcelEnergy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6105d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6101a</displayname>
+        <talent/>
+        <phrasetext>The outage has been entered. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6101a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6101b</displayname>
+        <talent/>
+        <phrasetext>At this time there is not an exact restoration time available, but on average we usually have power restored within </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6101b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6101c</displayname>
+        <talent/>
+        <phrasetext>hours</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6101c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6101d</displayname>
+        <talent/>
+        <phrasetext>Please note, this is the same information available to our representatives and from our online outage map at XcelEnergy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6101d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6100a</displayname>
+        <talent/>
+        <phrasetext>The outage has been entered. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6100a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6100b</displayname>
+        <talent/>
+        <phrasetext>We are aware of outages in your area and power is estimated to be restored by  </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6100b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6100c</displayname>
+        <talent/>
+        <phrasetext>today.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6100c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6100d</displayname>
+        <talent/>
+        <phrasetext>Please note, this is the same information available to our representatives and from our online outage map at XcelEnergy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6100d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6051a</displayname>
+        <talent/>
+        <phrasetext>Customers in </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6051a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6051b</displayname>
+        <talent/>
+        <phrasetext>have been affected by </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6051b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6051c</displayname>
+        <talent/>
+        <phrasetext>The vast majority of customers are  anticipated to be restored by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6051c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6050a</displayname>
+        <talent/>
+        <phrasetext>Customers in </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6050a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6050b</displayname>
+        <talent/>
+        <phrasetext>have been affected by </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6050b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6050c</displayname>
+        <talent/>
+        <phrasetext>The vast majority of customers are  anticipated to be restored by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6050c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6040a</displayname>
+        <talent/>
+        <phrasetext>Customers in</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6040a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6040b</displayname>
+        <talent/>
+        <phrasetext>have been affected by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6040b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6040c</displayname>
+        <talent/>
+        <phrasetext>The vast majority of customers are  anticipated to be restored by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6040c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6040d</displayname>
+        <talent/>
+        <phrasetext>Crews are working to restore your power as quickly as possible, and we appreciate your patience. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6040d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6041a</displayname>
+        <talent/>
+        <phrasetext>Customers in</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6041a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6041b</displayname>
+        <talent/>
+        <phrasetext>have been affected by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6041b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6041c</displayname>
+        <talent/>
+        <phrasetext>The vast majority of customers are  anticipated to be restored by</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6041c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6041d</displayname>
+        <talent/>
+        <phrasetext>Crews are working to restore your power as quickly as possible, and we appreciate your patience. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6041d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6022</displayname>
+        <talent/>
+        <phrasetext>There seems to be a problem with our system right now, thank you for your patience while we transfer you to a customer service representative who can help you report the outage.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6022.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6010</displayname>
+        <talent/>
+        <phrasetext>The outage is being entered.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6010.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6005</displayname>
+        <talent/>
+        <phrasetext>This service has been disconnected due to an overdue bill</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6005.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002a</displayname>
+        <talent/>
+        <phrasetext>Please confirm the address of the outage begins with</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002c</displayname>
+        <talent/>
+        <phrasetext>To get the latest outage restoration update for the address that begins with</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002d</displayname>
+        <talent/>
+        <phrasetext>Press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002e</displayname>
+        <talent/>
+        <phrasetext>If you want to report an outage for another address press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002e.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002f</displayname>
+        <talent/>
+        <phrasetext>If you are not calling to report an outage press 3</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002f.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002fSpeech</displayname>
+        <talent/>
+        <phrasetext>If you are not calling to report an outage say 3</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002fSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002eSpeech</displayname>
+        <talent/>
+        <phrasetext>If you want to report an outage for another address say 2. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002eSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6002dSpeech</displayname>
+        <talent/>
+        <phrasetext>Say 1</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6002dSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6060d</displayname>
+        <talent/>
+        <phrasetext>Please note, this is the same information available to our representatives and from our online outage map at Xcel Energy dot com.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6060d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7260</displayname>
+        <talent/>
+        <phrasetext>Enter the area code and phone number</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7260.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400a</displayname>
+        <talent/>
+        <phrasetext>Thank you for reporting this outage.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400b</displayname>
+        <talent/>
+        <phrasetext>Once a restoration time becomes available or when your power is restored, we will call you at</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400c</displayname>
+        <talent/>
+        <phrasetext>or</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7400d</displayname>
+        <talent/>
+        <phrasetext>If the expected restoration time changes by an hour or more, or when your power is restored. We will call you at</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7400d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413a</displayname>
+        <talent/>
+        <phrasetext>If you're calling from a cell phone and would prefer to receive a text instead, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413aSpeech</displayname>
+        <talent/>
+        <phrasetext>If you're calling from a cell phone and would prefer to receive a text instead, say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413aSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413b</displayname>
+        <talent/>
+        <phrasetext>To receive a phone call or text message at a different number, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413bSpeech</displayname>
+        <talent/>
+        <phrasetext>To receive a phone call or text message at a different number, say 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413bSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413c</displayname>
+        <talent/>
+        <phrasetext>If you prefer not to be contacted, press 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413cSpeech</displayname>
+        <talent/>
+        <phrasetext>If you prefer not to be contacted, say 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413cSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413d</displayname>
+        <talent/>
+        <phrasetext>If you need to report an emergency related to this outage, press 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7413dSpeech</displayname>
+        <talent/>
+        <phrasetext>If you need to report an emergency related to this outage, say 4.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7413dSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7403</displayname>
+        <talent/>
+        <phrasetext>Enter the area code and phone number</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7403.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>970_Err</displayname>
+        <talent/>
+        <phrasetext>That option is not available. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>970_Err.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>970_TO</displayname>
+        <talent/>
+        <phrasetext>No response was received.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>970_TO.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7211</displayname>
+        <talent/>
+        <phrasetext>Thank you for reporting this outage.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7211.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7401a</displayname>
+        <talent/>
+        <phrasetext>Please enter the area code and phone number we should call.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7401a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7401b</displayname>
+        <talent/>
+        <phrasetext>Please enter the area code and cell phone number we should text.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7401b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004a</displayname>
+        <talent/>
+        <phrasetext>Power Problem Menu</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004b</displayname>
+        <talent/>
+        <phrasetext>To report a power outage or for an outage update, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004b_S</displayname>
+        <talent/>
+        <phrasetext>To report a power outage or for an outage update, say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004bSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004c</displayname>
+        <talent/>
+        <phrasetext>To report a downed or sparkling wire, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004c_S</displayname>
+        <talent/>
+        <phrasetext>To report a downed or sparkling wire, say 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004cSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004d</displayname>
+        <talent/>
+        <phrasetext>For dim or fliclkering lights, or partial power, press 3. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004d_S</displayname>
+        <talent/>
+        <phrasetext>For dim or fliclkering lights, or partial power, say 3. </phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004dSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004e</displayname>
+        <talent/>
+        <phrasetext>To report a street light problem, press 4.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004e.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004e_S</displayname>
+        <talent/>
+        <phrasetext>To report a street light problem, say 4.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004eSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004f</displayname>
+        <talent/>
+        <phrasetext>For Call Before you dig information or any other power problem, press 5.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004f.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3004f_S</displayname>
+        <talent/>
+        <phrasetext>For Call Before you dig information or any other power problem, say 5.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3004fSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3005a</displayname>
+        <talent/>
+        <phrasetext>For Call before you dig information, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3005a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3005a_S</displayname>
+        <talent/>
+        <phrasetext>For Call before you dig information, say 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3005aSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3005b</displayname>
+        <talent/>
+        <phrasetext>For all other power problems, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3005b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3005b_S</displayname>
+        <talent/>
+        <phrasetext>For all other power problems, say 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3005bSpeech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>3006</displayname>
+        <talent/>
+        <phrasetext>Calling 8-1-1 enables you to get your utility-owned cable electric, natural gas and phone lines marked for free. The 8-1-1 representative will ask fo the location of you job and the appropriate utility companies will mark your service lines within two or three business days.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>3006.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6138</displayname>
+        <talent/>
+        <phrasetext>If this completes you call, you may hang up now.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>0990a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213Menu</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RepeatPress7</displayname>
+        <talent/>
+        <phrasetext>To repeat these options, press 7.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RepeatPress7.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7248d</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7248d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RepeatSay7</displayname>
+        <talent/>
+        <phrasetext>To repeat these options, say 7.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RepeatSay7.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ProblemMenu_Speech</displayname>
+        <talent/>
+        <phrasetext>To return to the Power Problem Menu, say 8.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ReturnPProb8Speech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ProblemMenu</displayname>
+        <talent/>
+        <phrasetext>To return to the Power Problem Menu, press 8.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ReturnPProb8.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MainMenu</displayname>
+        <talent/>
+        <phrasetext>To return to the Main Menu, press 9.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MainMenuPress9.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MainMenu_Speech</displayname>
+        <talent/>
+        <phrasetext>To return to the Main Menu, say 9.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>MainMenuSay9.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RepresentativePress0</displayname>
+        <talent/>
+        <phrasetext>To speak with a representative, press 0.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RepPress0.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RepresentativeSay0</displayname>
+        <talent/>
+        <phrasetext>To speak with a representative, say 0.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RepSay0.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RepeatInfoPress7</displayname>
+        <talent/>
+        <phrasetext>To repeat this information, press 7.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RepeatInfo7.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>RepeatInfoSay7</displayname>
+        <talent/>
+        <phrasetext>To repeat this information, say 7.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>RepeatInfo7Speech.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>ReturnOutageNotif</displayname>
+        <talent/>
+        <phrasetext>To return to the outage notifications menu, press 8.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>ReturnToOutNotifications8.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PreviousMenuPress8</displayname>
+        <talent/>
+        <phrasetext>To return to the previous menu, press 8.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7244e.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Press1</displayname>
+        <talent/>
+        <phrasetext>Press 1</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>P1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Say1</displayname>
+        <talent/>
+        <phrasetext>Say 1</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>S1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>7213k</displayname>
+        <talent/>
+        <phrasetext>To change notification options, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>7213k.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6150a</displayname>
+        <talent/>
+        <phrasetext>To receive outage notifications for this outage and future outages press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6150a.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6150b</displayname>
+        <talent/>
+        <phrasetext>To receive outage notifications for this outage only, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6150b.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6150c</displayname>
+        <talent/>
+        <phrasetext>To not receive outage notifications for this outage press 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6150c.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6150d</displayname>
+        <talent/>
+        <phrasetext>To repeat these options, press 7.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6150d.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>6152</displayname>
+        <talent/>
+        <phrasetext>  Stay on the line after receiving your power restoration estimate to register for updates regarding this outage by phone or text.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>6152.wav</audiofile>
+    </phrase>
+</phraseset>

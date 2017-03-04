@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" version="1.0">
+    <phrase version="1.0">
+        <displayname>greeting</displayname>
+        <talent/>
+        <phrasetext>Thank you for calling the IT Service center.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Greeting.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>menuchange</displayname>
+        <talent/>
+        <phrasetext>Please listen carefully, as our menu options have changed.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>menuchange.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>pwsubmenu1</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>pwsubmenu1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>pwsubmenu2</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>pwsubmenu2.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>pwsubmenureturn</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>pwsubmenureturn.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>GIS</displayname>
+        <talent/>
+        <phrasetext>For GIS, press 1</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>GIS.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>otherApplications</displayname>
+        <talent/>
+        <phrasetext>For other applications, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>otherApplications.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>selfservice1</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>selfservice1.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>selfservice2</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>selfservice2.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>selfservice3</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>selfservice3.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>selfservice4</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>selfservice4.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>repeat</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>repeat.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>prevmenu</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>prevmenu.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>main_menu9</displayname>
+        <talent/>
+        <phrasetext>At any time, press 9 to return to the main menu.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>main_menu9.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SAPTechnicalIssues</displayname>
+        <talent/>
+        <phrasetext>For Other SAP Technical Issues, press 4.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SAPTechnicalIssues.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Allotherrequests</displayname>
+        <talent/>
+        <phrasetext>For all other requests, press 4.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Allotherrequests.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>GLAccountsandRelatedInquries</displayname>
+        <talent/>
+        <phrasetext>For GL Accounts or Related Inquiries Support, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>GLAccountsandRelatedInquries.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>OtherApplicationSupport</displayname>
+        <talent/>
+        <phrasetext>For other application support, including desktop, and specialized application, press 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>OtherApplicationSupport.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>PasswordResetLockedAccounts</displayname>
+        <talent/>
+        <phrasetext>For password resets and locked accounts, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>PasswordResetLockedAccounts.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SAPLoginSecurityIssues</displayname>
+        <talent/>
+        <phrasetext>For SAP login or security issues, press 1.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SAPLoginSecurityIssues.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>SAPSupport</displayname>
+        <talent/>
+        <phrasetext>For SAP Support, press 2.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>SAPSupport.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>MobilitySupport</displayname>
+        <talent/>
+        <phrasetext>For Mobility Support, press 3.</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Mobility.wav</audiofile>
+    </phrase>
+</phraseset>
