@@ -14,7 +14,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 /**
- * Utility class for editing Avaya dialog designer component phraseset.
+ * Utility class for editing Avaya dialog designer component phrase set.
  * 
  * 2016-11-05
  * 
